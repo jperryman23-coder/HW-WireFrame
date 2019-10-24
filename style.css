@@ -1,0 +1,36 @@
+.jabril{color: red}
+.nav-link{
+    text-decoration: none
+}
+.nav-bar{
+    background-color: none
+}
+.container{
+    color:black
+}
+p {
+    text-align: center;
+    
+  }
+img  {
+    float: left;
+  }
+  .nav-bar{
+      float: right;
+  }
+  .clearfix {
+    overflow: auto;
+  }
+  a{
+   float: top;   
+  }
+  .float-right{
+      float: right;
+  }
+  .style{
+    background-image: url('img_girl.jpg'); 
+  }
+
+  #phone{ background-attachment: fixed;
+
+  }
